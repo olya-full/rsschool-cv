@@ -1,17 +1,17 @@
 #Volha Yakauleva
 ***
-##Project Coordinator##
+##Project Coordinator
 ***
 
-##Contact Info##
+##Contact Info
 **Discord |** Olya Y (@olya-full)
 **LinkedIn |** [LinkedIn Profile](https://www.linkedin.com/in/olya-yakovleva-78438a192 "Olya Yakovleva") 
 
 ***
-##About##
+##About
 Travelling through life in search of happiness, whatever its source.
 
-##My Skills##
+##My Skills
 *In their multitude and diversity, with an attempt to limit them to professional ones only*
 * Project management
 * Jira / Trello / Azure / Custom
@@ -22,4 +22,4 @@ Travelling through life in search of happiness, whatever its source.
 * Basic Photoshop
 * Intense negotiations
 
-##Code Snippet##
+##Code Snippet
