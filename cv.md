@@ -34,17 +34,19 @@ num = prompt("Введите число больше 100?", 0);
 ***
 
 ## Work Experience
+**Project Coordinator**
+
 August 2019 - now
 
 Alfa Algorithms
 
-**Project Coordinator**
+
+
+**Senior Inspector**
 
 July 2017 - July 2019
 
 Minsk Regional Customs
-
-**Senior Inspector**
 
 ## Education
 Belarusian State University'2017
