@@ -1,6 +1,7 @@
 # Volha Yakauleva
 ## Project Coordinator
-![My Picture](https://user-images.githubusercontent.com/112762462/189054127-d0098b13-b93f-46f4-b6f4-a72d0598703c.jpg)
+![My picture](https://user-images.githubusercontent.com/112762462/189055838-fde65071-c88a-48b1-94f3-eefe4dedc60e.jpg)
+
 
 ***
 
@@ -34,16 +35,22 @@ num = prompt("Введите число больше 100?", 0);
 
 ## Work Experience
 August 2019 - now
+
 Alfa Algorithms
+
 **Project Coordinator**
 
 July 2017 - July 2019
+
 Minsk Regional Customs
+
 **Senior Inspector**
 
 ## Education
 Belarusian State University'2017
+
 Faculty of International Relations
+
 Specialist (Bachelor +) Degree
 
 ## Languages
