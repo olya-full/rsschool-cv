@@ -6,9 +6,9 @@
 ***
 
 ## Contact Info
-**Discord: ** Olya Y (@olya-full)
+**Discord:** Olya Y (@olya-full)
 
-**LinkedIn: ** [LinkedIn Profile](https://www.linkedin.com/in/olya-yakovleva-78438a192 "Olya Yakovleva") 
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/olya-yakovleva-78438a192 "Olya Yakovleva") 
 
 ***
 ## About
@@ -29,7 +29,8 @@ Travelling through life in search of happiness, whatever its source.
 ```let num;
 do {
 num = prompt("Введите число больше 100?", 0);
-} while (num <= 100 && num);```
+} while (num <= 100 && num);
+```
 
 
 ***
@@ -58,7 +59,7 @@ Faculty of International Relations
 Specialist (Bachelor +) Degree
 
 ## Languages
-* **Belarusian: ** Native
-* **English: ** C2
-* **Russian: ** Native
-* **Spanish: ** B2
+* **Belarusian:** Native
+* **English:** C2
+* **Russian:** Native
+* **Spanish:** B2
